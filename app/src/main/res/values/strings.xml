@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">تستیار</string>
+    <string name="app_tagline">مدیریت و تحلیل تست‌های درسی</string>
+    <string name="add_subject">افزودن درس</string>
+    <string name="edit_subject">ویرایش درس</string>
+    <string name="delete_subject">حذف درس</string>
+    <string name="subject_name">نام درس</string>
+    <string name="total_questions">تعداد کل تست‌ها</string>
+    <string name="recorded_questions">تست‌های ثبت‌شده</string>
+    <string name="remaining_questions">تست‌های باقیمانده</string>
+    <string name="progress_percentage">درصد پیشرفت</string>
+    <string name="search_question">جستجو یا رفتن به شماره تست…</string>
+    <string name="filter_all">همه</string>
+    <string name="filter_mastered">بلد بودم و درست زدم</string>
+    <string name="filter_lucky">درست زدم ولی شانسی</string>
+    <string name="filter_unanswered">بلد نبودم / نزدم</string>
+    <string name="filter_incorrect">غلط زدم</string>
+    <string name="filter_unrecorded">ثبت‌نشده</string>
+    <string name="confirm_delete_subject_title">حذف درس</string>
+    <string name="confirm_delete_subject_message">آیا از حذف این درس و تمامی تست‌های ثبت‌شده آن اطمینان دارید؟ این عمل غیرقابل بازگشت است.</string>
+    <string name="cancel">انصراف</string>
+    <string name="save">ذخیره</string>
+    <string name="delete">حذف</string>
+    <string name="clear_record">پاک کردن ثبت</string>
+    <string name="next_question">تست بعدی</string>
+    <string name="previous_question">تست قبلی</string>
+    <string name="statistics">آمار درس</string>
+</resources>

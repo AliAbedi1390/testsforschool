@@ -1,0 +1,6 @@
+{
+  "name": "تستیار - مدیریت تست‌های درسی",
+  "description": "اپلیکیشن مدیریت، ثبت و تحلیل تست‌های درسی به همراه آمار دقیق و پشتیبانی کامل فارسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
